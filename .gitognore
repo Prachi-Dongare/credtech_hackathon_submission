@@ -1,0 +1,10 @@
+# Ignore Python / Node / system junk
+node_modules/
+venv/
+.env
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+dist/
+build/
